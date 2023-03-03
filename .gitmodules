@@ -1,0 +1,3 @@
+[submodule "test/service/my_stub"]
+	path = test/service/my_stub
+	url = git@github.com:mb-test-org/test_stub1.git
